@@ -12,17 +12,26 @@ Funciona de manera que los pacientes pueden hacer preguntas a los doctores de la
 Webpage link/ Link a la pagina:
 
 
-Patients/Pacientes:\n
-testPatient1 - has questions allready asked / tiene ya preguntas guardadas \n
-testPatient2\n
-testPatient3\n
+Patients/Pacientes:
 
-Doctors/Doctores:\n
-testDoctor1\n
-testDoctor2\n
-testDoctor3\n
+testPatient1 - has questions allready asked / tiene ya preguntas guardadas 
 
-All accounts password/Contraseña de todas las cuentas:\n
+testPatient2
+
+testPatient3
+
+
+Doctors/Doctores:
+
+testDoctor1
+
+testDoctor2
+
+testDoctor3
+
+
+All accounts password/Contraseña de todas las cuentas:
+
 contraseña
 
  
