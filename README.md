@@ -13,7 +13,7 @@ Webpage link/ Link a la pagina:
 
 
 Patients/Pacientes:
-testPatient1 - has questions allready asked / tiene ya preguntas guardadas
+testPatient1 - has questions allready asked / tiene ya preguntas guardadas /n
 testPatient2
 testPatient3
 
