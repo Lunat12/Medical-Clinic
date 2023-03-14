@@ -12,17 +12,17 @@ Funciona de manera que los pacientes pueden hacer preguntas a los doctores de la
 Webpage link/ Link a la pagina:
 
 
-Patients/Pacientes:
-testPatient1 - has questions allready asked / tiene ya preguntas guardadas /n
-testPatient2
-testPatient3
+Patients/Pacientes:\n
+testPatient1 - has questions allready asked / tiene ya preguntas guardadas \n
+testPatient2\n
+testPatient3\n
 
-Doctors/Doctores:
-testDoctor1
-testDoctor2
-testDoctor3
+Doctors/Doctores:\n
+testDoctor1\n
+testDoctor2\n
+testDoctor3\n
 
-All accounts password/Contraseña de todas las cuentas:
+All accounts password/Contraseña de todas las cuentas:\n
 contraseña
 
  
