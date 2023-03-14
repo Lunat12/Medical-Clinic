@@ -1,5 +1,5 @@
 # Medical-Clinic
-# Medical webpage made with django. 
+Medical webpage made with django. 
 
 It works so patiens can ask questions to the doctors registered in the web and request appointments. Doctors then can respond to those questions and see today's appointments.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -9,7 +9,7 @@ Webpage link/ Link a la pagina:
 
 
 Patients/Pacientes:
-# testPatient1 - has questions allready asked / tiene ya preguntas guardadas
+testPatient1 - has questions allready asked / tiene ya preguntas guardadas
 testPatient2
 testPatient3
 
@@ -19,7 +19,7 @@ testDoctor2
 testDoctor3
 
 All accounts password/Contraseña de todas las cuentas:
-# contraseña
+contraseña
 
  
 
